@@ -6,5 +6,6 @@
 "lpddr3_20nm" : 184,
 "lpddr2_20nm" : 159,
 "lpddr4"      : 48,
-"ddr4_10nm"   : 65
+"ddr4_10nm"   : 65,
+"dell_lca"    : 1441
 }
